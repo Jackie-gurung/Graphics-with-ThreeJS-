@@ -1,0 +1,1 @@
+{"mappings":"AAAA;;;;;AAKA","sources":["css/main.css"],"sourcesContent":["body{\n    margin: 0px;\n    height: 100vh;\n}\n\ncanvas {\n    display: block;\n}"],"names":[],"version":3,"file":"index.47ca9330.css.map","sourceRoot":"/__parcel_source_root/"}
